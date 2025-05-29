@@ -15,7 +15,8 @@ public class findMissingNumber {
 		}
 		
 		
-		//calculate sum of all series number in array {1,2,3,4,5} 
+		//calculate sum of all series number in array {1,2,3,4,5}
+		
 	for (int i=0; i<=5; i++)
 	{
 		sum2=sum2+i;
